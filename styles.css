@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color: #66bfbf;
+}
+
+h1 {
+  margin-top: 30px;
+  font-size: 5rem;
+  color: #ff4b5c;
+  font-family: 'Henny Penny', cursive;
+  font-weight: bolder;
+
+
+}
+
+footer {
+  color: #ff4b5c;
+  font-family: 'Dosis', sans-serif;
+
+}
+.footer{
+  padding-top:100px;
+  padding-left: 25px;
+  padding-right:25px;
+  padding-bottom:50px;
+  color:#ff4b5c;
+
+}
+.img-drum-w{
+  width=10%;
+}
+.w {
+background:url("images/drum-and-drumsticks-top-view.png");
+background-size: cover;
+
+}
+
+.a {
+background-image:url("images/drums-pair.png");
+background-size: cover;
+}
+
+.s {
+  background-image:url("images/bass-drum.png");
+  background-size: cover;
+}
+
+.d {
+  background-image:url("images/african-drum-with-stand.png");
+  background-size: cover;
+}
+
+.j {
+  background-image:url("images/african-drum.png");
+  background-size: cover;
+}
+
+.k {
+  background-image:url("images/drum.png");
+  background-size: cover;
+}
+
+.l {
+  background-image:url("images/eyd-drum.png");
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #ff4b5c;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #e0ece4;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ff4b5c;
+/**  text-shadow: 3px 0 #DBEDF3;**/
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color:#e0ece4;
+}
+.music{
+  color:#056674;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.music1{
+  color:#ff4b5c;
+  padding-left: 10px;
+  padding-right: 10px;
+}
